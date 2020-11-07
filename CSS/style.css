@@ -1,0 +1,93 @@
+.inline-block {
+    background-color:#1E2121;
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.inline-block li {
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+    font-size: 24px;
+    padding: 24px;
+}
+
+.logo{
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+
+.navigation {
+    width: 73%;
+    padding: 1%;
+    
+}
+
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+
+.heroimg {
+    height: 400px;
+    padding: 25px;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+body{
+    background-color:#1E2121;
+}
+
+.flexContainer{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    padding: 0 auto;
+}
+
+.workGrid {
+    display: grid;
+}
+
+footer {
+    background: #373738;
+    padding: 0 auto;
+    color: white;
+}
+
+.button {
+background-color: #252727;
+border: #707070 ;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 24px;
+}
+
+.button1 {
+    background-color: #252727;
+    color:#FFFFFF;
+    border: #707070;
+}
+
+.button1:hover {
+    background-color: #FFFFFF;
+    color: #252727;
+} 
+
+.button2 {
+    background-color: #252727;
+    color: #FFFFFF;
+}
+
+.button2:hover {
+    background-color: #FFFFFF;
+    color: #252727;
+}
